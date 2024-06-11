@@ -1,0 +1,39 @@
+[
+    {
+      "id": "#string",
+      "company_id": 333631,
+      "name": "#string",
+      "description": "#string",
+      "status": "active",
+      "zip_codes": "#array",
+      "api_bidding_enabled": false,
+      "missing_titles_supported": false,
+      "created_at": "#? timeValidator(_)",
+      "last_modified_at": "#? timeValidator(_)",
+      "carrier_type": {
+        "code": "self_service",
+        "description": "Self-service"
+      }
+    },
+    {
+      "id": "#string",
+      "company_id": "#number",
+      "name": "#string",
+      "description": "#string",
+      "status": "#string",
+      "statistics": {
+        "total_offers_assigned": "#number",
+        "total_offers_qualified": "#number",
+        "win_rate": "#number"
+      },
+      "last_modified_at": "#? timeValidator(_)",
+      "last_modified_by": "#number",
+      "last_modified_by_user_type": "#number",
+      "carrier_type": {
+        "code": "#string",
+        "description": "#string"
+      },
+      "missing_titles_supported": "#boolean"
+    }
+  ]
+  

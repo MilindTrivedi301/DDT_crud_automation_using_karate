@@ -1,0 +1,117 @@
+[
+    {
+      "status": "active",
+      "zip_codes": ["99654", "99504"],
+      "api_bidding_enabled": false,
+      "missing_titles_supported": false,
+      "company_id": 333631,
+      "carrier_type": "self_service"
+    },
+    {
+  
+      "status": "paused",
+      "zip_codes": [
+        "10001",
+        "11010"
+      ],
+      "api_bidding_enabled": false,
+      "missing_titles_supported": false,
+      "buyer_user_id": 333631,
+      "carrier_type": "self_service"
+    },
+    {
+      "name": "Alaska Campaign",
+      "description": "This campaign covers Alsaka state",
+      "status": "active",
+      "zip_codes": ["99654", "99504"],
+      "api_bidding_enabled": false,
+      "missing_titles_supported": false,
+      "company_id": 333631,
+      "carrier_type": "self_service"
+    },
+    {
+      "description": 7570,
+      "zip_codes": [
+        "99654",
+        "99504"
+      ],
+      "company_id": 333631,
+      "carrier_type": "self_service"
+    },
+    {
+      "name":"" ,
+      "description": "This campaign covers Alsaka state",
+      "status": "active",
+      "zip_codes": [
+        "99654",
+        "99504"
+      ],
+      "api_bidding_enabled": false,
+      "missing_titles_supported": false,
+      "company_id": 333631
+    },
+    {
+      "name": "qwertyuiopasdfghjklzxcvbnmqaawer tyuiopasdfghjklzxcvbnmqwertyuiopasdfghjkl zxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiop asd fghjklzxcvbnmqwertyuiopasdf ghjklzxcijgjlvbnmqwertyuiopasdfghjklzxcvbnmqwert yuiopasdfghjklzxcvbnmqwertyuiopasdfghhhhjjjjklzxcvbnmqwe rtyuiopasdfghjkzxcvbnm",
+      "description": "This campaign covers Alsaka state",
+      "status": "active",
+      "zip_codes": [
+        "99654",
+        "99504"
+      ],
+      "company_id": 333631
+    },
+    {
+      "description": "<script>alert(1)</script>",
+      "status": "{{random_camp_status}}",
+      "zip_codes": [
+        "99654",
+        "99504"
+      ],
+      "api_bidding_enabled": false,
+      "company_id": 333631,
+      "Buyer_user_id": 333631
+    },
+    {
+      "description": "This campaign covers Alsaka state qwertyuiopasdfghjklzxcvbnmqaawer tyuiopasdfghjklzxcvbnmqwertyuiopasdfghjkl zxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiop asd fghjklzxcvbnmqwertyuiopasdf ghjklzxcijgjlvbnmqwertyuiopasdfghjklzxcvbnmqwert yuiopasdfghjklzxcvbnmqwertyuiopasdfghhhhjjjjklzxcvbnmqwe rtyuiopasdfghjkzxcvbnm qwertyuiopasdfghjklzxcvbnmqaawer tyuiopasdfghjklzxcvbnmqwertyuiopasdfghjkl zxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiop asd fghjklzxcvbnmqwertyuiopasdf ghjklzxcijgjlvbnmqwertyuiopasdfghjklzxcvbnmqwert yuiopasdfghjklzxcvbnmqwertyuiopasdfghhhhjjjjklzxcvbnmqwe rtyuiopasdfghjkzxcvbnmqwertyuiopasdfghjklzxcvbnmqaawer tyuiopasdfghjklzxcvbnmqwertyuiopasdfghjkl zxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiop asd fghjklzxcvbnmqwertyuiopasdf ghjklzxcijgjlvbnmqwertyuiopasdfghjklzxcvbnmqwert yuiopasdfghjklzxcvbnmqwertyuiopasdfghhhhjjjjklzxcvbnmqwe rtyuiopasdfghjkzxcvbnmqwertyuiopasdfghjklzxcvbnmqaawer tyuiopasdfghjklzxcvbnmqwertyuiopasdfghjkl zxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiop asd fghjklzxcvbnmqwertyuiopasdf ghjklzxcijgjlvbnmqwertyuiopasdfghjklzxcvbnmqwert yuiopasdfghjklzxcvbnmqwertyuiopasdfghhhhjjjjklzxcvbnmqwe rtyuiopasdfghjkzxcvbnm",
+      "status": "active",
+      "zip_codes": [
+        "99654",
+        "99504"
+      ],
+      "company_id": 333631
+    },
+    {
+      "description": "This campaign covers Alsaka state",
+      "status": "sdfds",
+      "zip_codes": [
+        "99654",
+        "99504"
+      ],
+      "api_bidding_enabled": false,
+      "missing_titles_supported": false,
+      "company_id": 333631
+    },
+    {
+      "description": "This campaign covers Alsaka state",
+      "status": "active",
+      "zip_codes": [
+        "11111"
+      ],
+      "api_bidding_enabled": false,
+      "missing_titles_supported": false,
+      "company_id": 333631,
+      "buyer_user_id":333631
+    },
+    {
+      "description": "This campaign covers Alsaka state",
+      "status": "active",
+      "zip_codes": [
+        "99654",
+        "99504"
+      ],
+      "api_bidding_enabled": false,
+      "missing_titles_supported": false
+    
+    }
+  ]
+  
